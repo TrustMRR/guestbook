@@ -4,7 +4,7 @@ Please add your name in numerical order.
 
 | Name | GitHub | X (Twitter) | Message |
 |------|--------|-------------|---------|
-| Marc Lou | [@marclou](https://github.com/marclou) | [@marc_louvion](https://x.com/marclou) | making stuff |
+| Marc Lou | [@marclou](https://github.com/marclou) | [@marclou](https://x.com/marclou) | making stuff |
 | Pieter Levels | [@levelsio](https://github.com/levelsio) | [@levelsio](https://x.com/levelsio) | ship every day |
 | Danny Postma | [@dannypostmaa](https://github.com/dannypostmaa) | [@dannypostmaa](https://x.com/dannypostmaa) | AI-first builder |
 | Jon Yongfook | [@yongfook](https://github.com/yongfook) | [@yongfook](https://x.com/yongfook) | bootstrap everything |
